@@ -12,7 +12,7 @@ function About() {
                 <br/>forward for opportunities.
                </div>
                <div className='about-photo'>
-                 <img src={require('../../../assets/saran.png').default} alt='' className='picture'/>
+                 <img src={require('../../../assets/AA.png').default} alt='' className='picture'/>
                </div>
 
            </div>
