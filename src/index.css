@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: linear-gradient(to right top, #e6eaf0, #d9dbe3, #cdccd6, #c2bcc7, #b8adb8);
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

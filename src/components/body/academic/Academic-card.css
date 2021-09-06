@@ -1,0 +1,33 @@
+.academic-card {
+    padding: 8px;
+    width: 10%;
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+.academic-info {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.passedOut-dates {
+    color: rgb(255, 0, 255);
+}
+
+.institute-name {
+    color: black;
+}
+
+.qualification-name {
+    color: rgb(255, 0, 255);
+}
+
+@media only screen and (max-width: 720px) {
+    .academic-card {
+        width: 100%;
+    }
+}
