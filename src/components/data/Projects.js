@@ -6,12 +6,13 @@ export const ProjectData = [{
         github: "https://github.com/sarankumarsritharan/twitter-clone/tree/main",
         image: require("../../assets/icons/Twitter.png").default,
     },
-    {
+     {
         id: "2",
-        title: "URL Shortner",
-        About: "URL Shortner project substantially shortner and still direct to the required page",
-        tags: ["NodeJs", "MongoDb", "Postman"],
-        github: "https: //github.com/sarankumarsritharan/url-shortner",
-        image: require("../../assets/icons/Url.png").default,
+        title: "Airbnb",
+        About: "Airbnb that operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities",
+        tags: ["ReactJs", "MongoDb", "Firebase", "MaterialUi", "NodeJS"],
+        github: "https://github.com/sarankumarsritharan/AirBnb-Dup-with-explore-nearbuy-and-Date-functionalities",
+        image: require("../../assets/icons/AB.png").default,
     }
+ 
 ];
